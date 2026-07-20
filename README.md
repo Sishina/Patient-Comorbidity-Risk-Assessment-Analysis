@@ -20,16 +20,16 @@ Source: Healthcare patient records dataset. Data Contains: 20 Columns and 10000 
 •	Did visualization using cleaned data.
 
 ## 5. Key Insights
-a. Clear patterns emerge showing that lifestyle choices (like physical activity levels) significantly alter critical risk bars for heart attacks. b. Patients who already have conditions like Diabetes, Hypertension, or Liver Disease have a much higher average death risk (Mortality Risk Percentage) than healthy individuals. c. Patients who have Diabetes are much more likely to also have Chronic Kidney Disease.
+. Clear patterns emerge showing that lifestyle choices (like physical activity levels) significantly alter critical risk bars for heart attacks. b. Patients who already have conditions like Diabetes, Hypertension, or Liver Disease have a much higher average death risk (Mortality Risk Percentage) than healthy individuals. c. Patients who have Diabetes are much more likely to also have Chronic Kidney Disease.
      
 ## 6. Files included
-•	Original_Health_Records_Data.csv - Dataset of patient medical histories.
-•	Patient_Comorbidity_Analysis.ipynb - Jupyter Notebook file with all visualizations and source code.
-•	README.md - Project Description.
+•**	Original_Health_Records_Data.csv - Dataset of patient medical histories.
+•**	Patient_Comorbidity_Analysis.ipynb - Jupyter Notebook file with all visualizations and source code.
+•**	README.md - Project Description.
 
 ## 7. How to use
-•	Open 'Patient_Comorbidity_Analysis.ipynb' in Jupyter Notebook or VS Code to see to see how the medical data was cleaned and created the charts and graphs.
-•	Click on Run All cells to update all visuals at once.
+•**	Open 'Patient_Comorbidity_Analysis.ipynb' in Jupyter Notebook or VS Code to see to see how the medical data was cleaned and created the charts and graphs.
+•**	Click on Run All cells to update all visuals at once.
 
 ## 8. Conclusion
 The final notebook is a clear and colourful tool. It helps anyone quickly see how deeply connected a patient's lifestyle and daily habits are to serious health risks. Old age, high blood pressure, diabetes, and heavy drinking are the biggest factors leading to dangerous health conditions and higher mortality rates.
