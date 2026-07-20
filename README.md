@@ -18,12 +18,19 @@ Source: Healthcare patient records dataset. Data Contains: 20 Columns and 10000 
 
 ## 4. Steps Followed
 •	Cleaned the healthcare dataset using Pandas to handle missing values and structure data formats.
+
 •	I replaced missing values with appropriate baseline statistics(mean,mode)
+
 •	Created a 'BMI Categorization' column.
+
 •	Did visualization using cleaned data.
 
 ## 5. Key Insights
-. Clear patterns emerge showing that lifestyle choices (like physical activity levels) significantly alter critical risk bars for heart attacks. b. Patients who already have conditions like Diabetes, Hypertension, or Liver Disease have a much higher average death risk (Mortality Risk Percentage) than healthy individuals. c. Patients who have Diabetes are much more likely to also have Chronic Kidney Disease.
+. Clear patterns emerge showing that lifestyle choices (like physical activity levels) significantly alter critical risk bars for heart attacks. 
+
+. Patients who already have conditions like Diabetes, Hypertension, or Liver Disease have a much higher average death risk (Mortality Risk Percentage) than healthy individuals. 
+
+. Patients who have Diabetes are much more likely to also have Chronic Kidney Disease.
      
 ## 6. Files included
 •	Original_Health_Records_Data.csv - Dataset of patient medical histories.
@@ -34,6 +41,7 @@ Source: Healthcare patient records dataset. Data Contains: 20 Columns and 10000 
 
 ## 7. How to use
 •	Open 'Patient_Comorbidity_Analysis.ipynb' in Jupyter Notebook or VS Code to see to see how the medical data was cleaned and created the charts and graphs.
+
 •    Click on Run All cells to update all visuals at once.
 
 ## 8. Conclusion
